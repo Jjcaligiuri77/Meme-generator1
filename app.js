@@ -4,12 +4,12 @@ const back = document.querySelectorAll('.back');
 const counter = document.querySelector('.count');
 
 
-let basketball = "/pics/F100011951.jpg"; 
-let wallet = "/pics/F100011915.jpg";
-let apples = "/pics/F100011954.jpg";
-let deer = "/pics/F100011953.jpg";
-let darts = "/pics/F100011872.jpg";
-let flower = "/pics/F100011946.jpg";
+let basketball = "F100011951.jpg"; 
+let wallet = "F100011915.jpg";
+let apples = "F100011954.jpg";
+let deer = "F100011953.jpg";
+let darts = "F100011872.jpg";
+let flower = "F100011946.jpg";
 
 let imagesArray = [basketball, wallet, apples, deer, darts, flower, basketball, wallet, apples, deer, darts, flower];
 
