@@ -2,7 +2,7 @@ body{
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url("cluster.jpg");
+    background-image: url(cluster.jpg);
     background-size: cover;
     
   }
