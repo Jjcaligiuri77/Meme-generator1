@@ -1,9 +1,8 @@
 body{
-    /*background-color: rgb(107, 108, 114);*/
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url("/pics/cluster.jpg");
+    background-image: url("cluster.jpg");
     background-size: cover;
     
   }
